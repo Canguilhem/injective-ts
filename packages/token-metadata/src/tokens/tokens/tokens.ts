@@ -2128,6 +2128,15 @@ export default {
     tokenType: TokenType.TokenFactory,
   },
 
+  XTALIS: {
+    name: 'xTalis',
+    symbol: 'XTALIS',
+    decimals: 6,
+    logo: 'xtalis.png',
+    coinGeckoId: '',
+    tokenType: TokenType.TokenFactory,
+  },
+
   KIRA: {
     name: 'KIRA',
     symbol: 'KIRA',
